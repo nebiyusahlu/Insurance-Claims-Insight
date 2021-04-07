@@ -34,6 +34,9 @@ Report created for stakeholders :-
 
 ![Page 5](https://user-images.githubusercontent.com/82042663/113940622-5aa34b00-97c3-11eb-802c-5b7aeabc1e97.PNG)
 
+Here is a link to the published report :- 
+
+https://app.powerbi.com/view?r=eyJrIjoiYjc3NzA1ZTgtNTJiNy00Y2IyLTk2Y2EtNzczYjc3NWRhODlmIiwidCI6ImI2ZjNjOTE3LTBhODEtNDc1NC1hODMyLTI4MGQxMjJhOGMxYyJ9&pageName=ReportSection77e542ce92143ea8edc2
 
 
 
