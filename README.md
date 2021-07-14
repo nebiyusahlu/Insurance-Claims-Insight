@@ -16,7 +16,7 @@ Data source in a spreadsheet :-
 
 ![Excel Source](https://user-images.githubusercontent.com/82042663/113940484-2596f880-97c3-11eb-873e-49a2d3302d61.PNG)
 
-Data Model Created in power query from excel source :- 
+Data Model Created in power query from excel source:- 
 
 ![Data Model](https://user-images.githubusercontent.com/82042663/113940464-1ca62700-97c3-11eb-9f36-751bd6d78bc4.PNG)
 
